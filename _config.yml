@@ -19,7 +19,7 @@ author :
 #markdown: rdiscount
 markdown: kramdown
 #url: http://www.moorekang.com
-url: http://cyukang.com
+url: http://xbantcl.github.io/jekyll_bootstrap/
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -29,7 +29,7 @@ url: http://cyukang.com
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://cyukang.com
+production_url : http://xbantcl.github.io/jekyll_bootstrap/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
